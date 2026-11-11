@@ -1,0 +1,14 @@
+{
+  "output_path": "\\\\SERVER\\Share\\Output",
+  "watch_path": "C:\\path\\to\\exocad\\output",
+  "staff_name": "",
+  "auto_enabled": false,
+  "material_names": {
+    "ZR": "",
+    "CC": "",
+    "METAL": "",
+    "PEEK": "",
+    "WAX": "",
+    "TEMP": ""
+  }
+}

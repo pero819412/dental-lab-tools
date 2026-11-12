@@ -46,6 +46,7 @@ exocad が書き出す `.constructionInfo` を読み取り、CAM（DWOS）向け
 - 第1弾: [歯科技工の「面倒くさい」を潰すために作ってきたツールを、GitHubに公開しました](https://note.com/aicreate_dt/n/nded948e150bc)
 - 第2弾: [ソフトの使い方を一番知っているのは、開発者ではなくあなた自身](https://note.com/aicreate_dt/n/n25fe39fc2650)
 - 第3弾（有料）: [頼み方ひとつで結果が変わる ― 実物パック](https://note.com/aicreate_dt/n/n810048324d0a)
+- 第4弾（有料）: [30本のツールを束ねる「マネージャ」の管理機能だけを抜き出しました](https://note.com/aicreate_dt/n/n1387de32a879)
 - 第5弾: [AIは1つで足りるのか ― Codex・Grok・Claude Codeを3つ契約して分担させてみた実感](https://note.com/aicreate_dt/n/ne0de4a60c2a1)
 - 第6弾: [統括役は誰に頼むのか ― Muse に各AIを「内蔵」させて使ってみた使用感](https://note.com/aicreate_dt/n/nc82f91b7c9ae)
 - 第7弾: [AIは「答える」か「作業する」かで選ぶ](https://note.com/aicreate_dt/n/na4a18c742e58)

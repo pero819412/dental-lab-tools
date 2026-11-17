@@ -54,5 +54,6 @@ exocad が書き出す `.constructionInfo` を読み取り、CAM（DWOS）向け
 - 第7弾: [AIは「答える」か「作業する」かで選ぶ](https://note.com/aicreate_dt/n/na4a18c742e58)
 - 第8弾: [自腹で始めて、実績で取り返す ― AIの主力プランを会社負担にしてもらうまでの話](https://note.com/aicreate_dt/n/nd8588ffbbf18)
 - 第9弾: [スクリプトか、APIか ― 方向性も、お金の出方も違う自動化の話](https://note.com/aicreate_dt/n/ne5c54921d1d2)
+- 第10弾: [「コピペでOK」が一番危ない ― AIへの丸投げと「隠れた指示」の話](https://note.com/aicreate_dt/n/n73eb14efe2a9)
 - Zenn: [職場の内製スクリプトを公開リポジトリに切り出す](https://zenn.dev/pero819412/articles/7bb8462b200fd3)
 - X: [@CADCAM_DT](https://x.com/CADCAM_DT)
